@@ -1,0 +1,19 @@
+{
+  "name": "eTommy",
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "TommyIT",
+    "Grigorij Talijančić"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
